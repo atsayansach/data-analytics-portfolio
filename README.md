@@ -31,7 +31,7 @@ blablabla
 
 **MySQL Queries**
 
-I installed and used MySQL Workbench to [query](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. I used many different functions to apply CRUD (Create, Read, Update, Delete) to the data and use them for data analysis. I also produced an [EERD](EER Diagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. From this experience, I learnt a wide array of different SQL functions and how to use them for analysis, and I also learnt the importance of relationships between entities in a database and how they can be used within the queries.
+I installed and used MySQL Workbench to [query](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. I used many different functions to apply CRUD (Create, Read, Update, Delete) to the data and use them for data analysis. I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. From this experience, I learnt a wide array of different SQL functions and how to use them for analysis, and I also learnt the importance of relationships between entities in a database and how they can be used within the queries.
 
 
 **Azure SQL Database**
