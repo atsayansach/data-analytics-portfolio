@@ -1,10 +1,40 @@
 # Data-analytics-portfolio
 
-# **Profile**
-Hello, I'm Atsayan Sachchithananthan, a 2025 graduate from the University of Nottingham with a 2:1 MSci Biotechnology degree, and working towards a Level 3 Data Skills Certification. I have acquired skills and experience in Excel, Tableau, Power BI, and Microsoft Azure, and learnt how to use SQL and Python, all for the purpose of data analysis. This portfolio is a showcase of all the technical skills and experience I have gained and highlights my strengths in data analysis.
+# Hi, I'm Atsayan,
 
-# **Excel**
-One of the most important things to create in Excel is a [PivotTable
+I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power BI, and Tableau to beginner and intermediate learners.
+
+
+## What I work on
+
+- Designing practical data analytics curricula and teaching materials - Teaching live coding sessions and workshops
+
+- Creating real-world datasets and case studies for learners
+
+## Selected projects –
+
+**Intro to Python for Data Analysis**
+
+– Python notebooks covering data types, loops, and basic Pandas.
+
+
+- **SQL for Analysts**
+
+– Example database and queries for teaching SELECT, JOIN, and aggregation.
+
+- **Power BI Dashboards**
+
+– Sample reports showing KPIs, slicers, and interactive visuals.
+
+
+- **Tableau**
+
+– Sample reports showing KPIs, slicers, and interactive visuals.
+
+
+## Get in touch
+
+- Email: *(add your email here if you want)*
 
 
 
