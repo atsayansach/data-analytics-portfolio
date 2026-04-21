@@ -4,12 +4,9 @@
 
 I'm a 2025 graduate from the University of Nottingham with an 2:1 MSci in Biotechnology, and working towards a Level 3 Data Skills Bootcamp certification with Leep Talent, learning and polishing key skills and gaining experience in work-simulated settings to prepare myself for a Junior Data Analyst role.
 
+# This Portfolio
 
-## What I work on
-
-- Designing practical data analytics curricula and teaching materials - Teaching live coding sessions and workshops
-
-- Creating real-world datasets and case studies for learners
+The purpose of this portfolio is to showcase the wide range of skills and experience I have acquired during the bootcamp, and how I have been able to put them to use within different softwares to answer business questions.
 
 ## Selected projects
 
@@ -44,11 +41,14 @@ Using Azure SQL database, I [queried](adventureworksdbsql.txt) an Adventure Work
 
 
 **Visualisations in Python**
-[Visualisation Practice](visualisations_practice.ipynb)
+
+Using Python, I created [visualisations](visualisations_practice.ipynb) from a GDP and a student dataset. I imported matplotlib.pyplot and seaborn into the Google Colab worksheet and used functions to create an array of visualisations, such as heatmaps and histograms. From this experience, I learnt how simple it was to use code to create visualisations in Python, and how using importing different libraries can be beneficial for data analysis.
+     
+
 
 ## Get in touch
 
-- Email: *(add your email here if you want)*
+- Email: *atsayan25@gmail.com*
 
 
 
