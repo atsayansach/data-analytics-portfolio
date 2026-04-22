@@ -78,7 +78,37 @@ Using an Adventure Works database, I created a [visual](pbirunningsum.png) in Po
 
 Using a football dataset I found online containing match results from July 2000 onwards, I created visuals to analyse the effects of home advantage across the top 5 leagues, looking at wins, goals, shots, and corners, and formed a [dashboard](footballpowerbi.png) using them. I used a pie chart to show the proportions of results, and column charts to comparre the statistics. From this experience, I learnt how to create a visually appealing dashboard on PowerBI, using features like slicers and filters to break information down.
 
-**MySQL Queries**
+**MySQL Queries and Population Analysis**
+
+**Database used:** world.db
+
+This database contains information on countries, such as life expectancy and capital city, cities, such as population, and country language, such as percentage spoken.
+
+**Source:** via bootcamp, all datasets are from Kaggle
+
+The dataset covers 239 countries, 4079 cities, and 984 languages. Country population ranges from 0 to 1,277,558,000.
+
+**Type of business:** Logistics Company
+
+This task would be important for a logistics company because they would be able to use the analysis to see which countries have high populations and assess where to locate warehouses and shipping zones.
+
+
+**Task:** I [queried](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. I used many different functions to apply CRUD (Create, Read, Update, Delete) to the data and use them for data analysis. I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. From this experience, I learnt a wide array of different SQL functions and how to use them for analysis, and I also learnt the importance of relationships between entities in a database and how they can be used within the queries.
+
+**Insights:** An insight I found from this task was that there is a positive correlation between danceability and popularity. This could suggest to a record label that tracks with more danceability will get more Spotify streams and they should encourage artists to make more danceable songs or scout artists that produce more danceable songs.
+
+Another insight I found from the task was the most popular tracks on Spotify were between 3.5 and 4 minutes. This could suggest to a record label that if their artists release tracks in that duration range, they will get more streams, so they should encourage artists under their label to aim for this.
+
+
+
+
+
+
+
+
+
+
+
 
 I installed and used MySQL Workbench to [query](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. I used many different functions to apply CRUD (Create, Read, Update, Delete) to the data and use them for data analysis. I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. From this experience, I learnt a wide array of different SQL functions and how to use them for analysis, and I also learnt the importance of relationships between entities in a database and how they can be used within the queries.
 
