@@ -78,7 +78,7 @@ Using an Adventure Works database, I created a [visual](pbirunningsum.png) in Po
 
 Using a football dataset I found online containing match results from July 2000 onwards, I created visuals to analyse the effects of home advantage across the top 5 leagues, looking at wins, goals, shots, and corners, and formed a [dashboard](footballpowerbi.png) using them. I used a pie chart to show the proportions of results, and column charts to comparre the statistics. From this experience, I learnt how to create a visually appealing dashboard on PowerBI, using features like slicers and filters to break information down.
 
-**MySQL Queries and Population Analysis**
+### MySQL Queries and Population Analysis
 
 **Database used:** world.db
 
@@ -93,36 +93,26 @@ The dataset covers 239 countries, 4079 cities, and 984 languages. Country popula
 This task would be important for a logistics company because they would be able to use the analysis to see which countries have high populations and assess where to locate warehouses and shipping zones.
 
 
-**Task:** I [queried](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. I used many different functions to apply CRUD (Create, Read, Update, Delete) to the data and use them for data analysis. I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. From this experience, I learnt a wide array of different SQL functions and how to use them for analysis, and I also learnt the importance of relationships between entities in a database and how they can be used within the queries.
+**Task:** I [queried](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. I began by uploading the world.db database to MySQL Workbench, ensuring the world schema became available to use. I then used SELECT, FROM, and WHERE functions to explore the data and understand the database. I then used more functions such as COUNT, JOIN, CONCAT, DROP to explore using CRUD operators in MySQL. 
 
-**Insights:** An insight I found from this task was that there is a positive correlation between danceability and popularity. This could suggest to a record label that tracks with more danceability will get more Spotify streams and they should encourage artists to make more danceable songs or scout artists that produce more danceable songs.
+I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. 
 
-Another insight I found from the task was the most popular tracks on Spotify were between 3.5 and 4 minutes. This could suggest to a record label that if their artists release tracks in that duration range, they will get more streams, so they should encourage artists under their label to aim for this.
+For the population analysis, I used ORDER BY, DESC, and ASC to discover which countries and cities had the highest and lowest populations.
 
+**Insights:** An insight I found from this task was that China has the highest population. This could suggest to a logistics company that there are more customers in China, and to reach them, it would be best to locate more warehouses in China, and have more shipping zones there.
 
+Another insight I found from the task was that although USA has a high population, cities like Charlston and Carson have relatively low city populations compared to other cities in the USA. This could suggest to a logistics company that they will have less customers in some cities so they need to plan where shipping zones are based on higher population cities rather than lower population
 
-
-
-
-
-
-
-
-
-
-I installed and used MySQL Workbench to [query](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. I used many different functions to apply CRUD (Create, Read, Update, Delete) to the data and use them for data analysis. I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. From this experience, I learnt a wide array of different SQL functions and how to use them for analysis, and I also learnt the importance of relationships between entities in a database and how they can be used within the queries.
-
-
-**Azure SQL Database**
+### Azure SQL Database
 
 Using Azure SQL database, I [queried](adventureworksdbsql.txt) an Adventure Works database to answer business questions. I structured my queries based on the data required to answer the questions and used fundamental functions such as SELECT, FROM, WHERE, as well as more advanced functions such as JOIN and GROUP BY. From this experience, I learnt how to load up a database in Azure SQL database, and was able to see the benefit of using a cloud based platform that doesn't require installation to run SQL queries.
 
-**If,Else, and Loops**
+### If,Else, and Loops
 
 Using Python, I was able to experiment with [if,elif,else,for,and while](ifsandloops.ipynb) functions in Google Colab. Practicing these functions allowed me to gain experience with using them, and I was even able to combine them in some places, such as combining an if function with a while loop. From this experience, I gained confidence in using these functions in Python, and I was able to grasp an idea of how to use them in a data analysis context
 
 
-**Visualisations in Python**
+### Visualisations in Python
 
 Using Python, I created [visualisations](visualisations_practice.ipynb) from a GDP and a student dataset. I imported matplotlib and seaborn into the Google Colab worksheet and used functions to create an array of visualisations, such as heatmaps and histograms. From this experience, I became confident in using code to create visualisations in Python, and how importing different libraries can provide more options for visualisations, allowing for a larger variety of options for data analysis.
      
