@@ -42,6 +42,10 @@ I produced a [Pivot Table](PivotTable.png) that showed the sales volumes by prod
 
 Another insight I found from the task was the highest sold product by sales volume was laptops. This could suggest to a technology retailer that laptops are their most popular product and they should invest in stocking all their stores with more laptops to get more sales.
 
+### Summary
+
+This task shows that I am capable of using Excel to analyse data by using pivot tables.
+
 ---
 ## Stomach Cancer analysis using a Tableau visual
 
@@ -131,20 +135,45 @@ The dataset covers 121,317 sales, 19,820 customers, 290 employees, and 504 produ
 This task would be important for the bicycle company that the database is for as it allows them to assess trends in sales, employee sales records, and more.
 
 
-**Task:** I [queried](adventureworksdbsql.txt) an Adventure Works database to answer business questions. I began by launching Azure SQL database and 
+**Task:** I [queried](adventureworksdbsql.txt) an Adventure Works database to answer business questions. I began by deploying an SQL database in the Azure SQL Database environment, configuring settings, and selecting the Adventure Works sample database to load up. I then began to query the database with SQL in the Azure Query Editor. I structured my queries based on the data required to answer the questions. Examples of business questions asked were what are total sales per customer, what products are premium and are above average list price, and which product had the highest profit margin.
 
+**Insights:** An insight I found from this task was that 
 
- I structured my queries based on the data required to answer the questions and used fundamental functions such as SELECT, FROM, WHERE, as well as more advanced functions such as JOIN and GROUP BY. From this experience, I learnt how to load up a database in Azure SQL database, and was able to see the benefit of using a cloud based platform that doesn't require installation to run SQL queries.
-
-**Insights:** An insight I found from this task was that China has the highest population. This could suggest to a logistics company that there are more customers in China, and to reach them, it would be best to locate more warehouses in China, and have more shipping zones there.
-
-Another insight I found from the task was that although USA has a high population, cities like Charlston and Carson have relatively low city populations compared to other cities in the USA. This could suggest to a logistics company that they will have less customers in some cities so they need to plan where shipping zones are based on higher population cities rather than lower population
+Another insight I found from the task was 
 
 ---
 
-### If,Else, and Loops
+### Student scores analysis with Python in Google Colab
 
-Using Python, I was able to experiment with [if,elif,else,for,and while](ifsandloops.ipynb) functions in Google Colab. Practicing these functions allowed me to gain experience with using them, and I was even able to combine them in some places, such as combining an if function with a while loop. From this experience, I gained confidence in using these functions in Python, and I was able to grasp an idea of how to use them in a data analysis context
+### Dataset 
+
+The dataset used for this analysis was student.csv
+
+This dataset contains information about students, their class, their marks, and their gender
+
+Source: via bootcamp
+
+The dataset contains 35 students in 7 different classes. Their marks range from 18 to 96
+
+### Business
+
+ Schools would use the analysis from this task.
+
+This task would be important for them because they will be able to assess each student's marks and see which classes are doing well.
+
+### Task
+
+ I analysed the student.csv dataset with Python in [Google Colab](studentanalysis.iypnb). I began by importing pandas, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the student.csv dataset into the notebook. I then set the student.csv dataframe as df to make coding easier. I explored the data using coding like df.head() to understand the data, and used pandas functions to carry out analysis within the notebook. In addition, I cleaned the data using pandas, inserted new columns such as if the student passed, and grade, and I renamed the marks column to score. I then wrote up my results.
+
+### Insights
+
+ An insight I found from this task was that class Nine had the lowest mean score of only 41.5. For the school, this could suggest that class Nine is struggling with the material and they need to allocate more teaching resources to class Nine to bring them up to par with other classes.
+
+Another insight I found from the task was that 7 students acheived a grade D. This could suggest to the school that those students are struggling and they could arrange extra teaching to bring those students' grades up.
+
+### Summary
+
+This task shows that I am capable of using Python to carry out data analysis and derive meaningful insights from it
 
 
 ### Visualisations in Python
