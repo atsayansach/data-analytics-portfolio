@@ -333,3 +333,13 @@ SELECT DISTINCT(Language), COUNT(1)
 FROM countrylanguage
 GROUP BY Language;
 
+SELECT code, name, population
+FROM country
+ORDER BY population desc;
+
+SELECT name, population
+FROM city
+WHERE countrycode = "USA"
+ORDER BY population asc;
+
+
