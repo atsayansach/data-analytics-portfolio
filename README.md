@@ -10,17 +10,65 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
 
 ## Selected projects
 
-**Excel Pivot Tables**
+### Regional Sales Analysis with Pivot Tables
 
-I created a [Pivot Table](PivotTable.png) in Excel using a dataset about sales volumes of different products in different regions. This Pivot Table made it easy to see where products were being sold well and not so well. I also used format options to fill blanks with 0s to create an easier Pivot Table to read. From this experience, I learnt how to create Pivot Tables, and how useful they are for displaying information for analysis.
+**Dataset used:** [Sales Volume Data](RegionSalesExcel.png)
 
-**Tableau Visuals**
+This dataset contains information about sales volumes across different regions for different products
 
-Using a healthcare dataset called GapminderHealth, I produced a [visual](tableauvisual.png) in Tableau, showcasing the number of cases of stomach cancer, dividing between gender and continent. THe visual was in the form of a bar chart, with red bars representing statistics for women, and blue for men. This visual made it very clear that there are a lot more recorded cases of stomach cancer in Asia, and that more cases are recorded in men. From this experience, I learnt how to create appealing visuals in Tableau and how to elevate the detail of the visual by grouping by multiple categories.
+**Source:** via bootcamp, all datasets are from Kaggle
 
-**Tableau Dashboards**
+The dataset covers 6 regions and 3 products. Sales volumes in regions ranged from 550 to 1100 and in products ranged from 1250 and 2450
 
-Using another dataset concerning Spotify statistics, I produced a [dashboard](spotifyanalysisdashtableau.png) comprised of different visuals I had created in Tableau. I made each visual in a separate worksheet, using different types of graphs based on the information being displayed - bar charts for statistics for artists and songs, and scatter plots for visualising trends in different aspects of the music. From this experience, I learnt how to form an appealing dashboard that displays relevant information without overcrowding it.
+**Type of business:** Technology Retailer
+
+This task would be important for a technology retailer because they can see what products and regions are selling the most volumes and use that to inform decisions on what and where to stock.
+
+**Task:** I produced a [Pivot Table](PivotTable.png) that showed the sales volumes by product and region. The first step was to clean the data. I then inserted a Pivot Table from the data and filled blanks with 0 to get a table from which I could analyse the sales volumes of each product in each region. I then wrote up my findings.
+
+**Insights:** An insight I found from this task was that Durham had the least total sales volume. This could suggest to a technology retailer that Durham has less traction and they should consider supplying the Durham store with less stock to save costs.
+
+Another insight I found from the task was the highest sold product by sales volume was laptops. This could suggest to a technology retailer that laptops are their most popular product and they should invest in stocking all their stores with more laptops to get more sales.
+
+### Stomach Cancer analysis using a Tableau visual
+
+**Dataset used:** Gapminder Health
+
+This dataset contains data from different countries, their life expectancy, population, and different health conditions and cases across both genders
+
+**Source:** via bootcamp, all datasets are from Kaggle
+
+This dataset covers 158 countries from 1990 to 2008, tracking 13 health conditions. Global average life expectancy across the dataset ranges from 26 to 86.
+
+**Type of business:** Pharmaceutical Companies
+
+This task would be important for a pharmaceutical company because they can use the analysis to see what health conditions are on an upward trend to target those markets.
+
+**Task:** I produced a [visual](tableauvisual.png) that showed stomach cancer cases in 5 different continents by men and women. I began the task by cleaning the data in Excel, exploring the data, and loading it into Tableau. I then selected the fields I would need for my analysis which were Stomach Cancer, Gender, and Continent. I selected a bar chart as the visual suited for comparing the number of stomach cancer cases across gender and continents and formatted the bars to distinguish male and female cases. I then wrote up my findings.
+
+**Insights:** An insight I found from this task was that there are more cases of stomach cancer in men than women. A pharmaceutical company can use this insight to inform them about targeting production to the male market and advertising towards them.
+
+Another insight I found from the task was there were much more cases in Asia than any other continent. This could suggest to a pharmaceutical company that stomach cancer is more prevalent in Asia so they should advertise and target the Asia market to increase profit.
+
+### Popularity Analysis for Spotify tracks in a Tableau dashboard
+
+**Dataset used:** Spotify Features
+
+This dataset contains information about songs on Spotify and their artists, genre, popularity, and audio features/attributes
+
+**Source:** via bootcamp, all datasets are from Kaggle
+
+The dataset covers 232,725 tracks and 18 different audio features. The popularity ranges from 0 to 100 and has an average of 41, meaning the data has a well-distributed variety of tracks.
+
+**Type of business:** Record Labels
+
+This task would be important for a record label because they can use the data to assess what audio features are trending to inform what style of tracks they should invest in, and they can see how successful artists that are currently signed to their label are.
+
+**Task:** I produced a [dashboard](spotifytableau.png) that showcased different visuals that I had created in Tableau to analyse popularity in Spotify. The first step was to clean the data. Here, I needed to be careful because track ID's were repeated in the dataset, however, this was because the tracks were part of different genres, and to carry out a genre=level analysis, I needed to ensure that I did not remove those duplicates. I then created visuals in Tableau for the popularity analyses I wanted to do which were a bar chart comparing popularity across genres, a bar chart comparing popularity across artists, a scatter plot comparing danceability against popularity, and a scatter plot comparing duration against popularity. I then wrote up my findings.
+
+**Insights:** An insight I found from this task was that there is a positive correlation between danceability and popularity. This could suggest to a record label that tracks with more danceability will get more Spotify streams and they should encourage artists to make more danceable songs or scout artists that produce more danceable songs.
+
+Another insight I found from the task was the most popular tracks on Spotify were between 3.5 and 4 minutes. This could suggest to a record label that if their artists release tracks in that duration range, they will get more streams, so they should encourage artists under their label to aim for this.
 
 **PowerBI Visuals**
 
