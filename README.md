@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-# Hi, I'm Atsayan,
+# Hi, I'm Atsayan
 
 I'm a 2025 graduate from the University of Nottingham with an 2:1 MSci in Biotechnology, and working towards a Level 3 Data Skills Bootcamp certification with Leep Talent, learning and polishing key skills and gaining experience in work-simulated settings to prepare myself for a Junior Data Analyst role.
 
