@@ -4,39 +4,52 @@
 
 I'm a 2025 graduate from the University of Nottingham with an 2:1 MSci in Biotechnology, and working towards a Level 3 Data Skills Bootcamp certification with Leep Talent, learning and polishing key skills and gaining experience in work-simulated settings to prepare myself for a Junior Data Analyst role.
 
+---
+
 # This Portfolio
 
 The purpose of this portfolio is to showcase the wide range of skills and experience I have acquired during the bootcamp, and how I have been able to put them to use within different softwares to answer business questions.
 
-## Selected projects
+---
 
-### Regional Sales Analysis with Pivot Tables
+# Selected projects
 
-**Dataset used:** [Sales Volume Data](RegionSalesExcel.png)
+## Regional Sales Analysis with Pivot Tables
+
+### Dataset 
+
+[Sales Volume Data](RegionSalesExcel.png)
 
 This dataset contains information about sales volumes across different regions for different products
 
-**Source:** via bootcamp, all datasets are from Kaggle
+Source: via bootcamp, all datasets are from Kaggle
 
 The dataset covers 6 regions and 3 products. Sales volumes in regions ranged from 550 to 1100 and in products ranged from 1250 and 2450
 
-**Type of business:** Technology Retailer
+### Business
+
+ Technology Retailers would use the analysis from this task.
 
 This task would be important for a technology retailer because they can see what products and regions are selling the most volumes and use that to inform decisions on what and where to stock.
 
-**Task:** I produced a [Pivot Table](PivotTable.png) that showed the sales volumes by product and region. The first step was to clean the data. I then inserted a Pivot Table from the data and filled blanks with 0 to get a table from which I could analyse the sales volumes of each product in each region. I then wrote up my findings.
+### Task
 
-**Insights:** An insight I found from this task was that Durham had the least total sales volume. This could suggest to a technology retailer that Durham has less traction and they should consider supplying the Durham store with less stock to save costs.
+I produced a [Pivot Table](PivotTable.png) that showed the sales volumes by product and region. The first step was to clean the data. I then inserted a Pivot Table from the data and filled blanks with 0 to get a table from which I could analyse the sales volumes of each product in each region. I then wrote up my findings.
+
+### Insights
+
+ An insight I found from this task was that Durham had the least total sales volume. This could suggest to a technology retailer that Durham has less traction and they should consider supplying the Durham store with less stock to save costs.
 
 Another insight I found from the task was the highest sold product by sales volume was laptops. This could suggest to a technology retailer that laptops are their most popular product and they should invest in stocking all their stores with more laptops to get more sales.
 
-### Stomach Cancer analysis using a Tableau visual
+---
+## Stomach Cancer analysis using a Tableau visual
 
 **Dataset used:** Gapminder Health
 
 This dataset contains data from different countries, their life expectancy, population, and different health conditions and cases across both genders
 
-**Source:** via bootcamp, all datasets are from Kaggle
+Source: via bootcamp, all datasets are from Kaggle
 
 This dataset covers 158 countries from 1990 to 2008, tracking 13 health conditions. Global average life expectancy across the dataset ranges from 26 to 86.
 
@@ -56,7 +69,7 @@ Another insight I found from the task was there were much more cases in Asia tha
 
 This dataset contains information about songs on Spotify and their artists, genre, popularity, and audio features/attributes
 
-**Source:** via bootcamp, all datasets are from Kaggle
+Source: via bootcamp, all datasets are from Kaggle
 
 The dataset covers 232,725 tracks and 18 different audio features. The popularity ranges from 0 to 100 and has an average of 41, meaning the data has a well-distributed variety of tracks.
 
@@ -70,11 +83,11 @@ This task would be important for a record label because they can use the data to
 
 Another insight I found from the task was the most popular tracks on Spotify were between 3.5 and 4 minutes. This could suggest to a record label that if their artists release tracks in that duration range, they will get more streams, so they should encourage artists under their label to aim for this.
 
-**PowerBI Visuals**
+### PowerBI Visuals
 
 Using an Adventure Works database, I created a [visual](pbirunningsum.png) in PowerBI to showcase quarterly sales, using a line graph. I used DAX to create a calculated field for the running sum of sales for each year and used the field in the visual to show the progress for each year more clearly. From this experience, I learnt how DAX can be used to create measures from which data analysis can be done, and I learnt how to display data on a visualisation to aid this analysis.
 
-**PowerBI Dashboards**
+### PowerBI Dashboards
 
 Using a football dataset I found online containing match results from July 2000 onwards, I created visuals to analyse the effects of home advantage across the top 5 leagues, looking at wins, goals, shots, and corners, and formed a [dashboard](footballpowerbi.png) using them. I used a pie chart to show the proportions of results, and column charts to comparre the statistics. From this experience, I learnt how to create a visually appealing dashboard on PowerBI, using features like slicers and filters to break information down.
 
@@ -84,7 +97,7 @@ Using a football dataset I found online containing match results from July 2000 
 
 This database contains information on countries, such as life expectancy and capital city, cities, such as population, and country language, such as percentage spoken.
 
-**Source:** via bootcamp, all datasets are from Kaggle
+Source: via bootcamp, all datasets are from Kaggle
 
 The dataset covers 239 countries, 4079 cities, and 984 languages. Country population ranges from 0 to 1,277,558,000.
 
@@ -105,7 +118,29 @@ Another insight I found from the task was that although USA has a high populatio
 
 ### Azure SQL Database
 
-Using Azure SQL database, I [queried](adventureworksdbsql.txt) an Adventure Works database to answer business questions. I structured my queries based on the data required to answer the questions and used fundamental functions such as SELECT, FROM, WHERE, as well as more advanced functions such as JOIN and GROUP BY. From this experience, I learnt how to load up a database in Azure SQL database, and was able to see the benefit of using a cloud based platform that doesn't require installation to run SQL queries.
+**Database used:** adventureworks.db
+
+This database contains information on a bicycle company's sales, customers, employees, products, and more.
+
+Source: via Microsoft
+
+The dataset covers 121,317 sales, 19,820 customers, 290 employees, and 504 products .
+
+**Type of business:** Bicycle company
+
+This task would be important for the bicycle company that the database is for as it allows them to assess trends in sales, employee sales records, and more.
+
+
+**Task:** I [queried](adventureworksdbsql.txt) an Adventure Works database to answer business questions. I began by launching Azure SQL database and 
+
+
+ I structured my queries based on the data required to answer the questions and used fundamental functions such as SELECT, FROM, WHERE, as well as more advanced functions such as JOIN and GROUP BY. From this experience, I learnt how to load up a database in Azure SQL database, and was able to see the benefit of using a cloud based platform that doesn't require installation to run SQL queries.
+
+**Insights:** An insight I found from this task was that China has the highest population. This could suggest to a logistics company that there are more customers in China, and to reach them, it would be best to locate more warehouses in China, and have more shipping zones there.
+
+Another insight I found from the task was that although USA has a high population, cities like Charlston and Carson have relatively low city populations compared to other cities in the USA. This could suggest to a logistics company that they will have less customers in some cities so they need to plan where shipping zones are based on higher population cities rather than lower population
+
+---
 
 ### If,Else, and Loops
 
