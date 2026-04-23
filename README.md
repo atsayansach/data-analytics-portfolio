@@ -151,7 +151,7 @@ This task proves that I can create a dashboard that has meaningful visuals and p
 
 - This database contains information on countries, such as life expectancy and capital city, cities, such as population, and country language, such as percentage spoken.
 
-- Source: via bootcamp, all datasets are from Kaggle
+- Source: via MySQL website
 
 - The dataset covers 239 countries, 4079 cities, and 984 languages. Country population ranges from 0 to 1,277,558,000.
 
