@@ -145,32 +145,6 @@ I
 I
 I
 
-## Home advantage in football Power BI dashboard
-
-### Dataset
-
-- Club Football Match Data (2000 - 2025)
-
-- This dataset contains information from league matches across different countries, including results and game statistics
- 
-- Source: Github
-
-- This dataset has 42 leagues' and 475,000 matches' data. The data is taken between
-
-### Business
-
-This analysis could be used by sports media organisations who can use the data-driven insights to enrich their coverage of football games and use them to influence win percentage statistics
-
-### Task
-
-I produced a [dashboard](https://app.powerbi.com/links/9z0-17z2PR?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare) that showcased different visuals that I had created in Power BI concerning the effects of home advantage. I began by cleaning the data in Excel and exploring the data to find the fields I needed for my analysis. I then imported the dataset into Power BI and used Power Query Editor to transform the data, removing unnecessary columns and correcting data types. Following this, I applied a filter to the workpage to limit data to Top 5 leagues as they had the most consistent data coverage. I placed a slicer in the dashboard to choose which leagues to view, and created a pie chart to display proportions of home wins, away wins, and draws. I then created column charts for comparing home and away statistics for goals scored, shots on target, and corners won. Finally, I wrote down my findings.
-
-### Insights
-
-- The first insight I derived was that the home side won the most games, scored the most goals, took the most shots on target, and won the most corners. Football media companies could use this insight to deduce that home advantage is clearly very strong and use this to create higher stakes in their commentary.
-
-- Another insight was that the results were very similar across all 5 leagues. This could suggest for a football media company that even in games that aren't in between teams in the same division or country, the home advantage will remain the same, and they could use this to influence win percentages for games between teams in different countries.
-
 ### Summary
 
 This task proves that I can create a dashboard that has meaningful visuals and provide clear insights for stakeholders.
@@ -291,10 +265,35 @@ This task shows that I am capable of using Python to carry out data analysis and
 
 - Another insight I found from the task was that UN and WorldBank estimates have a linear relationship and they are proportional to one another. This could suggest to investment banks that both estimates are similar to one another and they can use both estimates in their decisions.
 
-
 ### Summary
 
 This task shows that I am capable of using Python to carry out data analysis and derive meaningful insights from it
+
+## Home advantage in football Power BI dashboard
+
+### Dataset
+
+- Club Football Match Data (2000 - 2025)
+
+- This dataset contains information from league matches across different countries, including results and game statistics
+ 
+- Source: Github
+
+- This dataset has 42 leagues' and 475,000 matches' data. The data is taken between
+
+### Business
+
+This analysis could be used by sports media organisations who can use the data-driven insights to enrich their coverage of football games and use them to influence win percentage statistics
+
+### Task
+
+I produced a [dashboard](https://app.powerbi.com/links/9z0-17z2PR?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare) that showcased different visuals that I had created in Power BI concerning the effects of home advantage. I began by cleaning the data in Excel and exploring the data to find the fields I needed for my analysis. I then imported the dataset into Power BI and used Power Query Editor to transform the data, removing unnecessary columns and correcting data types. Following this, I applied a filter to the workpage to limit data to Top 5 leagues as they had the most consistent data coverage. I placed a slicer in the dashboard to choose which leagues to view, and created a pie chart to display proportions of home wins, away wins, and draws. I then created column charts for comparing home and away statistics for goals scored, shots on target, and corners won. Finally, I wrote down my findings.
+
+### Insights
+
+- The first insight I derived was that the home side won the most games, scored the most goals, took the most shots on target, and won the most corners. Football media companies could use this insight to deduce that home advantage is clearly very strong and use this to create higher stakes in their commentary.
+
+- Another insight was that the results were very similar across all 5 leagues. This could suggest for a football media company that even in games that aren't in between teams in the same division or country, the home advantage will remain the same, and they could use this to influence win percentages for games between teams in different countries.
 
 
 ## Get in touch
