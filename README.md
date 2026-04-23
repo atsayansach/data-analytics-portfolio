@@ -12,7 +12,7 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
 
 ## Regional Sales Analysis with Pivot Tables
 
-![dataimage](dataicon.png) ### Dataset
+### Dataset ![dataimage](dataicon.png)
 
 - [Sales Volume Data](RegionSalesExcel.png)
 
