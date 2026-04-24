@@ -465,7 +465,7 @@ I produced a [dashboard](https://app.powerbi.com/links/9z0-17z2PR?ctid=3ea7c128-
 - Another insight was that the results were very similar across all 5 leagues. This could suggest for a football media company that even in games that aren't in between teams in the same division or country, the home advantage will remain the same, and they could use this to influence win percentages for games between teams in different countries.
 
 
-## Get in touch
+# Get in touch
 
 - Email: *atsayan25@gmail.com*
 
