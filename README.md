@@ -74,7 +74,7 @@ I produced a **pie chart** to display the proportions of sales revenue each age 
 
 - I created a Pivot Table using the Age Group and new Revenue fields and used that to create the pie chart
 
-![Pie Chart](Revenue Comparison by Age Group.png)
+![Pie Chart](piechart.png)
 
 
 ## Stomach Cancer analysis using a Tableau visual
