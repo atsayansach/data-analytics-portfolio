@@ -92,6 +92,8 @@ I produced a **pie chart** to display the proportions of sales revenue each age 
 
 This task shows that I can create visuals in Excel that give meaningful insights to a business from which they can make informed decisions.
 
+---
+
 # Tableau and Power BI
 
 ## Stomach Cancer analysis using a Tableau visual
@@ -216,6 +218,8 @@ I created a **dashboard** to present different visualisations that a stakeholder
 
 This task proves that I can create a dashboard that has meaningful visuals and provide clear insights for stakeholders.
 
+---
+
 # SQL
 
 ## MySQL Queries and Population Analysis
@@ -321,6 +325,8 @@ order by TotalSales desc;
 ### Summary
 
 This task shows that I can use Microsoft Azure, and Azure SQL Database to query databases, and I am able to use SQL to answer business questions.
+
+---
 
 # Python
 
