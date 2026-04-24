@@ -120,7 +120,7 @@ I produced a **visual** that showed stomach cancer cases in 5 different continen
 
 <br>
 
-![visual](tableauvisual.png)
+<img src="tableauvisual.png" width="1000" alt="description">
 
 ### Insights 
 
@@ -198,7 +198,9 @@ I created a **dashboard** to present different visualisations that a stakeholder
 
 - Finally, I added a logo and added two slicers - one for fiscal year, and one for region, to allow for filtering in the dashboard.
 
-![Power BI Dashboard](powerbibikedashboard.png)
+<br>
+
+<img src="powerbibikedashboard.png" width="1000" alt="description">
 
 ### Insights
 
@@ -231,16 +233,26 @@ This task would be important for a logistics company because they would be able 
 I [queried](SQL_example_queries.txt) world database, learning and using SQL functions to analyse and manipulate the data. 
 
 - I began by uploading the world.db database to MySQL Workbench, ensuring the world schema became available to use. 
+
 - I then used SELECT, FROM, and WHERE functions to explore the data and understand the database. 
+
 - I then used more functions such as COUNT, JOIN, CONCAT, DROP to explore using CRUD operators in MySQL. 
-- I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema. 
+
+- I also produced an [EERD](EERDiagram.png) (Enhanced-Entity Relationship Diagram) to showcase the relationships between entities/tables in the schema.
+
+<br>
+
+<img src="EERDiagram.png" width="500" alt="description">
+
+<br>
+
 - For the population analysis, I used ORDER BY, DESC, and ASC to discover which countries and cities had the highest and lowest populations.
 
 ### Insights 
 
-- An insight I found from this task was that China has the highest population. This could suggest to a logistics company that there are more customers in China, and to reach them, it would be best to locate more warehouses in China, and have more shipping zones there.
+- China has the highest population. This could suggest to a logistics company that there are more customers in China, and to reach them, it would be best to locate more warehouses in China, and have more shipping zones there.
 
-- Another insight I found from the task was that although USA has a high population, cities like Charlston and Carson have relatively low city populations compared to other cities in the USA. This could suggest to a logistics company that they will have less customers in some cities so they need to plan where shipping zones are based on higher population cities rather than lower population
+- Although USA has a high population, cities like Charlston and Carson have relatively low city populations compared to other cities in the USA. This could suggest to a logistics company that they will have less customers in some cities so they need to plan where shipping zones are based on higher population cities rather than lower population
 
 ### Summary
 
@@ -267,8 +279,11 @@ This task would be important for the bicycle company that the database is for as
 
 I [queried](adventureworksdbsql.txt) an Adventure Works database to answer business questions. 
 
-- I began by deploying an SQL database in the Azure SQL Database environment, configuring settings, and selecting the Adventure Works sample database to load up. 
-- I then began to query the database with SQL in the Azure Query Editor. I structured my queries based on the data required to answer the questions. Examples of business questions asked were what are total sales per customer, what products are premium and are above average list price, and which product had the highest profit margin.
+- I began by deploying an SQL database in the Azure SQL Database environment, configuring settings, and selecting the Adventure Works sample database to load up.
+
+- I then began to query the database with SQL in the Azure Query Editor. I structured my queries based on the data required to answer the questions. 
+
+- Examples of business questions asked were what are total sales per customer, what products are premium and are above average list price, and which product had the highest profit margin.
 
 ### Summary
 
@@ -295,15 +310,18 @@ This task shows that I can use Microsoft Azure, and Azure SQL Database to query 
 I analysed the student.csv dataset with Python in [Google Colab](studentanalysis.iypnb). 
 
 - I began by importing pandas, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the student.csv dataset into the notebook. 
+
 - I used pandas to set the student.csv dataframe as df to make coding easier. 
-- I explored the data using coding like df.head() to understand the data, and used other pandas functions to carry out analysis within the notebook. 
+
+- I explored the data using coding like df.head() to understand the data, and used other pandas functions to carry out analysis within the notebook.
+
 - In addition, I cleaned the data using pandas, inserted new columns such as if the student passed, and grade, and I renamed the marks column to score.
 
 ### Insights
 
-- An insight I found from this task was that class Nine had the lowest mean score of only 41.5. For the school, this could suggest that class Nine is struggling with the material and they need to allocate more teaching resources to class Nine to bring them up to par with other classes.
+- Class Nine had the lowest mean score of only 41.5. For the school, this could suggest that class Nine is struggling with the material and they need to allocate more teaching resources to class Nine to bring them up to par with other classes.
 
-- Another insight I found from the task was that 7 students acheived a grade D. This could suggest to the school that those students are struggling and they could arrange extra teaching to bring those students' grades up.
+- 7 students acheived a grade D. This could suggest to the school that those students are struggling and they could arrange extra teaching to bring those students' grades up.
 
 ### Summary
 
@@ -331,19 +349,24 @@ This task shows that I am capable of using Python to carry out data analysis and
  I analysed the GDP (nominal) per capita.csv dataset with Python in [Google Colab](GDPvisualisations.iypnb). 
  
  - I began by importing pandas, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the dataset into the notebook. 
+
  - I then used pandas to set the dataframe as df to make coding easier. 
- - I imported pyplot from matpolotlib as plt and used them in conjunction with pandas functions to plot scatter plots and histograms. 
+
+ - I imported pyplot from matpolotlib as plt and used them in conjunction with pandas functions to plot scatter plots and histograms.
+
  - I then used seaborn which I had imported as sns earlier to plot heatmaps and barplots. I then wrote up my findings.
 
 ### Insights
 
-- An insight I found from this task was that Europe had higher IMF_estimate in total compared to other regions. This could suggest to an investment bank that Europe is more prosperous and they may choose to invest in European markets.
+- Europe had higher IMF_estimate in total compared to other regions. This could suggest to an investment bank that Europe is more prosperous and they may choose to invest in European markets.
 
-- Another insight I found from the task was that UN and WorldBank estimates have a linear relationship and they are proportional to one another. This could suggest to investment banks that both estimates are similar to one another and they can use both estimates in their decisions.
+- UN and WorldBank estimates have a linear relationship and they are proportional to one another. This could suggest to investment banks that both estimates are similar to one another and they can use both estimates in their decisions.
 
 ### Summary
 
 This task shows that I am capable of using Python to carry out data analysis and derive meaningful insights from it
+
+# Extra
 
 ## Home advantage in football Power BI dashboard
 
@@ -365,11 +388,16 @@ This analysis could be used by sports media organisations who can use the data-d
 
 I produced a [dashboard](https://app.powerbi.com/links/9z0-17z2PR?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare) that showcased different visuals that I had created in Power BI concerning the effects of home advantage. 
 
-- I began by cleaning the data in Excel and exploring the data to find the fields I needed for my analysis. 
+- I began by cleaning the data in Excel and exploring the data to find the fields I needed for my analysis.
+
 - I then imported the dataset into Power BI and used Power Query Editor to transform the data, removing unnecessary columns and correcting data types. 
+
 - Following this, I applied a filter to the workpage to limit data to Top 5 leagues as they had the most consistent data coverage. 
-- I placed a slicer in the dashboard to choose which leagues to view
+
+- I placed a slicer in the dashboard to choose which leagues to view.
+
 - I created a pie chart to display proportions of home wins, away wins, and draws. 
+
 - I then created column charts for comparing home and away statistics for goals scored, shots on target, and corners won.
 
 ### Insights
