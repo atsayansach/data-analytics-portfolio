@@ -31,7 +31,9 @@ Technology retailers would use the analysis from this task because they can see 
 I produced a **Pivot Table** that showed the sales volumes by product and region. 
 
 - The first step was to clean the data. 
+
 - I then inserted a Pivot Table from the data
+
 - I filled blanks with 0 to get a table from which I could analyse the sales volumes of each product in each region.
 
 <br>
@@ -58,7 +60,7 @@ This task shows that I am capable of using Excel to analyse data by using pivot 
 
 - Source: via bootcamp, all datasets are from Kaggle
 
-- The dataset contains 113,036 entries with customers of 4 age groups - Youth (<25), Young Adults (25-34), Adults (35-64), and Seniors (>65)
+- The dataset contains 113,036 entries with customers of 4 age groups - Youth (<25), Young Adults (25-34), Adults (35-64), and Seniors (64+)
 
 ### Business
 
@@ -74,8 +76,19 @@ I produced a **pie chart** to display the proportions of sales revenue each age 
 
 - I created a Pivot Table using the Age Group and new Revenue fields and used that to create the pie chart
 
+<br>
+
 ![Pie Chart](piechart.png)
 
+### Insights
+
+- Adults brought almost half of the total revenue. This suggests to the bike company that their target audience should be the adult age-range and base advertisements and promotions on that.
+
+- Seniors brought very little revenue. This suggests to the bike company that they need to investigate further on why seniors are not contributing to revenue, such as senior discount being too little, or lack of product range for them.
+
+### Summary
+
+This task shows that I can create visuals in Excel that give meaningful insights to a business from which they can make informed decisions.
 
 ## Stomach Cancer analysis using a Tableau visual
 
@@ -95,18 +108,25 @@ The analysis would benefit a pharmaceutical company because they can use the ana
 
 ### Task: 
 
-I produced a [visual](tableauvisual.png) that showed stomach cancer cases in 5 different continents by men and women. 
+I produced a **visual** that showed stomach cancer cases in 5 different continents by men and women. 
 
 - I began the task by cleaning the data in Excel, exploring the data, and loading it into Tableau. 
+
 - I then selected the fields I would need for my analysis which were Stomach Cancer, Gender, and Continent. 
-- I selected a bar chart as the visual suited for comparing the number of stomach cancer cases across gender and continents
+
+- I selected a **bar chart** as the visual suited for comparing the number of stomach cancer cases across gender and continents
+
 - I formatted the bars to distinguish male and female cases.
+
+<br>
+
+![visual](tableauvisual.png)
 
 ### Insights 
 
-- An insight I found from this task was that there are more cases of stomach cancer in men than women. A pharmaceutical company can use this insight to inform them about targeting production to the male market and advertising towards them.
+- There are more cases of stomach cancer in men than women. A pharmaceutical company can use this insight to inform them about targeting production to the male market and advertising towards them.
 
-- Another insight I found from the task was there were much more cases in Asia than any other continent. This could suggest to a pharmaceutical company that stomach cancer is more prevalent in Asia so they should advertise and target the Asia market to increase profit.
+- There were much more cases in Asia than any other continent. This could suggest to a pharmaceutical company that stomach cancer is more prevalent in Asia so they should advertise and target the Asia market to increase profit.
 
 ### Summary
 
@@ -132,15 +152,17 @@ Record labels could use this analysis to assess what audio features are trending
 
 I produced a [dashboard](https://public.tableau.com/views/SpotifyAnalysisAS/SpotifyAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that showcased different visuals that I had created in Tableau to analyse popularity in Spotify. 
 
-- The first step was to clean the data. Here, I needed to be careful because track ID's were repeated in the dataset, however, this was because the tracks were part of different genres, and to carry out a genre=level analysis, I needed to ensure that I did not remove those duplicates. 
+- The first step was to clean the data. Here, I needed to be careful because track ID's were repeated in the dataset, however, this was because the tracks were part of different genres, and to carry out a genre=level analysis, I needed to ensure that I did not remove those duplicates.
+
 - I then created visuals in Tableau for the popularity analyses I wanted to do which were a bar chart comparing popularity across genres, a scatter plot comparing tempo against popularity, a scatter plot comparing danceability against popularity, and a scatter plot comparing duration against popularity.
+
 - I then created a dashboard with all 4 visuals evenly spaced out ensuring all relevant information can be seen.
 
 ### Insights 
 
-- An insight I found from this task was that there is a positive correlation between danceability and popularity. This could suggest to a record label that tracks with more danceability will get more Spotify streams and they should encourage artists to make more danceable songs or scout artists that produce more danceable songs.
+- There is a positive correlation between danceability and popularity. This could suggest to a record label that tracks with more danceability will get more Spotify streams and they should encourage artists to make more danceable songs or scout artists that produce more danceable songs.
 
-- Another insight I found from the task was the most popular tracks on Spotify were between 3.5 and 4 minutes. This could suggest to a record label that if their artists release tracks in that duration range, they will get more streams, so they should encourage artists under their label to aim for this.
+- The most popular tracks on Spotify were between 3.5 and 4 minutes. This could suggest to a record label that if their artists release tracks in that duration range, they will get more streams, so they should encourage artists under their label to aim for this.
 
 ### Summary
 
@@ -175,6 +197,8 @@ I created a **dashboard** to present different visualisations that a stakeholder
 - The next visual was a bar chart to compare the sales of different product categories
 
 - Finally, I added a logo and added two slicers - one for fiscal year, and one for region, to allow for filtering in the dashboard.
+
+![Power BI Dashboard](powerbibikedashboard.png)
 
 ### Insights
 
