@@ -12,7 +12,7 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
 
 ## Regional Sales Analysis with Pivot Tables
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset
 
 - [Sales Volume Data](RegionSalesExcel.png)
 
@@ -52,7 +52,7 @@ This task shows that I am capable of using Excel to analyse data by using pivot 
 
 ## Visualising Revenue by Age Groups in Excel
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset
 
 - Bike Sales Visualisations Lab
 
@@ -92,7 +92,7 @@ This task shows that I can create visuals in Excel that give meaningful insights
 
 ## Stomach Cancer analysis using a Tableau visual
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset 
 
 - Gapminder Health
 
@@ -134,7 +134,7 @@ This task proves that I am capable of creating appealing visuals in Tableau that
 
 ## Popularity Analysis for Spotify tracks in a Tableau dashboard
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset
 
 - Spotify Features
 
@@ -170,7 +170,7 @@ This tasks shows that I can create meaningful dashboards in Tableau that stakeho
 
 ## Power BI dashboard for bicycle company sales
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset
 
 - adventureworks.db
 
@@ -214,7 +214,7 @@ This task proves that I can create a dashboard that has meaningful visuals and p
 
 ## MySQL Queries and Population Analysis
 
-### Database <img src="dataicon.png" width="20" alt="description" align="top">
+### Database
 
 - world.db
 
@@ -260,7 +260,7 @@ This task shows that I am able to use SQL to query databases and analyse data, a
 
 ## Azure SQL Database
 
-### Database <img src="dataicon.png" width="20" alt="description" align="top">
+### Database
 
 - adventureworks.db
 
@@ -291,7 +291,7 @@ This task shows that I can use Microsoft Azure, and Azure SQL Database to query 
 
 ## Student scores analysis with Python in Google Colab
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset 
 
 - The dataset used for this analysis was student.csv
 
@@ -330,7 +330,7 @@ This task shows that I am capable of using Python to carry out data analysis and
 
 ## GDP per capita analysis and visualisations with Python in Google Colab
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset 
 
 - The dataset used for this analysis was GDP (nominal) per capita.csv
 
@@ -370,7 +370,7 @@ This task shows that I am capable of using Python to carry out data analysis and
 
 ## Home advantage in football Power BI dashboard
 
-### Dataset <img src="dataicon.png" width="20" alt="description" align="top">
+### Dataset
 
 - Club Football Match Data (2000 - 2025)
 
