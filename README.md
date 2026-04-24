@@ -92,6 +92,8 @@ I produced a **pie chart** to display the proportions of sales revenue each age 
 
 This task shows that I can create visuals in Excel that give meaningful insights to a business from which they can make informed decisions.
 
+# Tableau and Power BI
+
 ## Stomach Cancer analysis using a Tableau visual
 
 ### Dataset 
@@ -132,7 +134,7 @@ I produced a **visual** that showed stomach cancer cases in 5 different continen
 
 ### Summary
 
-This task proves that I am capable of creating appealing visuals in Tableau that show meaningful insights to stakeholders
+This task proves that I am capable of creating appealing visuals in Tableau that show meaningful insights to stakeholders.
 
 ## Popularity Analysis for Spotify tracks in a Tableau dashboard
 
@@ -168,7 +170,7 @@ I produced a [dashboard](https://public.tableau.com/views/SpotifyAnalysisAS/Spot
 
 ### Summary
 
-This tasks shows that I can create meaningful dashboards in Tableau that stakeholders can access and easily take insights from
+This tasks shows that I can create meaningful dashboards in Tableau that stakeholders can access and easily take insights from.
 
 ## Power BI dashboard for bicycle company sales
 
@@ -213,6 +215,8 @@ I created a **dashboard** to present different visualisations that a stakeholder
 ### Summary
 
 This task proves that I can create a dashboard that has meaningful visuals and provide clear insights for stakeholders.
+
+# SQL
 
 ## MySQL Queries and Population Analysis
 
@@ -316,7 +320,9 @@ order by TotalSales desc;
 
 ### Summary
 
-This task shows that I can use Microsoft Azure, and Azure SQL Database to query databases, and I am able to use SQL to answer business questions
+This task shows that I can use Microsoft Azure, and Azure SQL Database to query databases, and I am able to use SQL to answer business questions.
+
+# Python
 
 ## Student scores analysis with Python in Google Colab
 
@@ -372,7 +378,7 @@ df.head()
 
 ### Summary
 
-This task shows that I am capable of using Python to carry out data analysis and derive meaningful insights from it
+This task shows that I am capable of using Python to carry out data analysis and derive meaningful insights from it.
 
 
 ## GDP per capita analysis and visualisations with Python in Google Colab
@@ -416,7 +422,7 @@ This task shows that I am capable of using Python to carry out data analysis and
 
 ### Summary
 
-This task shows that I am capable of using Python to carry out data analysis and derive meaningful insights from it
+This task shows that I am capable of using Python to carry out data analysis and derive meaningful insights from it.
 
 # Extra
 
@@ -430,7 +436,7 @@ This task shows that I am capable of using Python to carry out data analysis and
  
 - Source: Github
 
-- This dataset has 42 leagues' and 475,000 matches' data. The data is taken between
+- This dataset has 42 leagues' and 475,000 matches' data.
 
 ### Business
 
