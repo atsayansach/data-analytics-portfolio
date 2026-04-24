@@ -10,6 +10,10 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
 
 # Selected projects
 
+<br>
+
+# Excel ![Excel Logo](excel.png)
+
 ## Regional Sales Analysis with Pivot Tables
 
 ### Dataset
@@ -307,7 +311,7 @@ This task shows that I can use Microsoft Azure, and Azure SQL Database to query 
 
 ### Task
 
-I analysed the student.csv dataset with Python in [Google Colab](studentanalysis.iypnb). 
+I analysed the student.csv dataset with Python in [Google Colab](https://colab.research.google.com/github/atsayansach/Data-Analytics-Portfolio/blob/main/studentanalysis.ipynb). 
 
 - I began by importing pandas, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the student.csv dataset into the notebook. 
 
@@ -346,7 +350,7 @@ This task shows that I am capable of using Python to carry out data analysis and
 
 ### Task
 
- I analysed the GDP (nominal) per capita.csv dataset with Python in [Google Colab](GDPvisualisations.iypnb). 
+ I analysed the GDP (nominal) per capita.csv dataset with Python in [Google Colab](https://colab.research.google.com/github/atsayansach/Data-Analytics-Portfolio/blob/main/GDPvisualisations.ipynb). 
  
  - I began by importing pandas, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the dataset into the notebook. 
 
@@ -358,7 +362,7 @@ This task shows that I am capable of using Python to carry out data analysis and
 
  <br>
 
- <img src="image.png" width="500" alt="python graph">
+ <img src="pythongraph.png" width="500" alt="python graph">
 
 
 ### Insights
