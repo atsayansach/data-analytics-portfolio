@@ -354,7 +354,12 @@ This task shows that I am capable of using Python to carry out data analysis and
 
  - I imported pyplot from matpolotlib as plt and used them in conjunction with pandas functions to plot scatter plots and histograms.
 
- - I then used seaborn which I had imported as sns earlier to plot heatmaps and barplots. I then wrote up my findings.
+ - I then used seaborn which I had imported as sns earlier to plot heatmaps and barplots.
+
+ <br>
+
+ <img src="image.png" width="500" alt="python graph">
+
 
 ### Insights
 
