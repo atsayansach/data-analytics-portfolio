@@ -24,21 +24,25 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
 
 ### Business
 
-Technology Retailers would use the analysis from this task because they can see what products and regions are selling the most volumes and use that to inform decisions on what and where to stock.
+Technology retailers would use the analysis from this task because they can see what products and regions are selling the most volumes and use that to inform decisions on what and where to stock.
 
 ### Task
 
-I produced a [Pivot Table](PivotTable.png) that showed the sales volumes by product and region. 
+I produced a **Pivot Table** that showed the sales volumes by product and region. 
 
 - The first step was to clean the data. 
 - I then inserted a Pivot Table from the data
 - I filled blanks with 0 to get a table from which I could analyse the sales volumes of each product in each region.
 
+<br>
+
+![Pivot Table](PivotTable.png)
+
 ### Insights
 
-- An insight I found from this task was that Durham had the least total sales volume. This could suggest to a technology retailer that Durham has less traction and they should consider supplying the Durham store with less stock to save costs.
+- Durham had the least total sales volume. This could suggest to a technology retailer that Durham has less traction and they should consider supplying the Durham store with less stock to save costs.
 
-- Another insight I found from the task was the highest sold product by sales volume was laptops. This could suggest to a technology retailer that laptops are their most popular product and they should invest in stocking all their stores with more laptops to get more sales.
+- The highest sold product by sales volume was laptops. This could suggest to a technology retailer that laptops are their most popular product and they should invest in stocking all their stores with more laptops to get more sales.
 
 ### Summary
 
@@ -48,19 +52,27 @@ This task shows that I am capable of using Excel to analyse data by using pivot 
 
 ### Dataset
 
-- Bike Sales Pivot Lab
+- Bike Sales Visualisations Lab
 
 - This dataset contains information about a bike shop's sales and customers.
 
 - Source: via bootcamp, all datasets are from Kaggle
 
-I
-I
-I
-I
-I
-I
-I
+- The dataset contains 113,036 entries with customers of 4 age groups - Youth (<25), Young Adults (25-34), Adults (35-64), and Seniors (>65)
+
+### Business
+
+This analysis would benefit the bike copmany because they can see which age groups bring them the most revenue and adjust advertisation accordingly.
+
+### Task
+
+I produced a **pie chart** to display the proportions of sales revenue each age group brings to the total amount.
+
+- First I cleaned the data in Excel, removing duplicates and adjusting data types
+
+- I created a new field for revenue using the calculation **Order Quantity * Unit Price**
+
+- I inserted a Pivot Table using 
 
 
 ## Stomach Cancer analysis using a Tableau visual
@@ -132,7 +144,7 @@ I produced a [dashboard](https://public.tableau.com/views/SpotifyAnalysisAS/Spot
 
 This tasks shows that I can create meaningful dashboards in Tableau that stakeholders can access and easily take insights from
 
-## Visual calculations for bicycle sales summary
+## Power BI dashboard for bicycle company sales
 
 ### Dataset
 
@@ -146,17 +158,27 @@ This tasks shows that I can create meaningful dashboards in Tableau that stakeho
 
 ### Business
 
-A bicycle retailer company would benefit from this analysis because they will be able to see how their sales and profits have changed over years to use in data-driven decisions
+A bicycle retailer company would benefit from this analysis because they will be able to see what product categories bring them profit, what regions are doing well, and how profit margins have changed by month
 
 ### Task
 
-I
-I
-I
-I
-I
-I
-I
+I created a **dashboard** to present different visualisations that a stakeholder would be interested in within this analysis.
+
+- First I loaded the database into Power BI, using the Power Query Editor to transform the data, setting data types and removing unnecessary columns
+
+- Following this, I created a visual for sales and profit margins by month, using columns for sales and a line for profit margin.
+
+- After this, I created a visual for sales by product category in North America, using a 100% stacked column chart to show proportions amounting to the total clearly.
+
+- The next visual was a bar chart to compare the sales of different product categories
+
+- Finally, I added a logo and added two slicers - one for fiscal year, and one for region, to allow for filtering in the dashboard.
+
+### Insights
+
+- Bikes bring the highest amount of sales by a large amount. This suggests to the bike company that their main product category is still doing well, so they can shift focus onto other product categories.
+
+- Despite their profit margin remaining largely consistent between July 2017 and May 2018, it has been close to 0%, and in June 2018 it even dropped down to close to -50%. This could suggest to the bike company that they need to adjust their operations to increase profit margins, such as by getting products from cheaper suppliers.
 
 ### Summary
 
