@@ -15,18 +15,25 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
   
   - Regional Sales Analaysis with Pivot Tables
   - Visualising Revenue by Age Groups in Excel
+    
 - [Tableau and Power BI](#Tableau-and-Power-BI)
   
   - Stomach Cancer analysis using a Tableau visual
   - Popularity Analysis for Spotify tracks in a Tableau dashboard
   - Power BI dashboard for bicycle company sales
+    
 - [SQL](#SQL)
+  
   - MySQL Queries and Population Analysis
   - Azure SQL Database
+    
 - [Python](#Python)
+  
   - Student scores analysis with Python in Google Colab
   - GDP per capita analysis and visualisations with Python in Google Colab
+    
 - [Extra](#Extra)
+  
   - Home advantage in football Power BI dashboard
 
 # Excel
