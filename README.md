@@ -493,4 +493,5 @@ I produced a [dashboard](https://app.powerbi.com/links/9z0-17z2PR?ctid=3ea7c128-
 # Get in touch
 
 - Email: *atsayan25@gmail.com*
+- [LinkedIn](www.linkedin.com/in/atsayan-sachchithananthan-402492294)
 
