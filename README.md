@@ -10,6 +10,12 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
 
 # Selected projects
 
+## Table of Contents
+- [Excel](#Excel)
+- [Tableau and Power BI](#Tableau-and-Power-BI)
+- [SQL](#SQL)
+- [Python](#Python)
+
 # Excel
 
 ## Regional Sales Analysis with Pivot Tables
