@@ -15,6 +15,7 @@ The purpose of this portfolio is to showcase the wide range of skills and experi
 - [Tableau and Power BI](#Tableau-and-Power-BI)
 - [SQL](#SQL)
 - [Python](#Python)
+- [Extra](#Extra)
 
 # Excel
 
