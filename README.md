@@ -433,7 +433,7 @@ This task shows that I am capable of using Python to carry out data analysis and
 
  I analysed the GDP (nominal) per capita.csv dataset with Python in [Google Colab](GDPvisualisations.ipynb). 
  
- - I began by importing pandas, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the dataset into the notebook. 
+ - I began by importing pandas, numpy, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the dataset into the notebook. 
 
  - I then used pandas to set the dataframe as df to make coding easier. 
 
