@@ -435,7 +435,7 @@ This task shows that I am capable of using Python to carry out data analysis and
  
  - I began by importing pandas, numpy, matplotlib, and seaborn libraries into my notebook, mounted the notebook to Google Drive, and then imported the dataset into the notebook. 
 
- - I then used pandas to set the dataframe as df to make coding easier. 
+ - I then used pandas and numpy to clean and standardise the data
 
  - I imported pyplot from matpolotlib as plt and used them in conjunction with pandas functions to plot **scatter plots and histograms**.
 
